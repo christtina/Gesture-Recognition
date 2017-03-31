@@ -1,0 +1,13 @@
+﻿Build started 3/23/2017 6:09:12 PM.
+     1>Project "Z:\CS585\lab2\OpenCV-Lab2\CS585_lab2\CS585_lab2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\build\include /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\CS585\lab2\OpenCV-Lab2\x64\Debug\CS585_lab2.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x64\vc12\lib opencv_world310.lib opencv_world310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Z:\CS585\lab2\OpenCV-Lab2\x64\Debug\CS585_lab2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\CS585\lab2\OpenCV-Lab2\x64\Debug\CS585_lab2.lib" /MACHINE:X64 x64\Debug\Source.obj
+         CS585_lab2.vcxproj -> Z:\CS585\lab2\OpenCV-Lab2\x64\Debug\CS585_lab2.exe
+     1>Done Building Project "Z:\CS585\lab2\OpenCV-Lab2\CS585_lab2\CS585_lab2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.63
